@@ -43,7 +43,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 25px;
 }
 
 header h2 img {
@@ -53,4 +53,17 @@ header h2 img {
     background-size: auto;
 }
 
-@media screen and 
+.myself {
+    margin-bottom: 20px;
+    clear: both;
+    padding: 10px;
+    font-family: sans-serif;
+    color: black;]
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
+
+
