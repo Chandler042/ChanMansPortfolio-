@@ -65,3 +65,13 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+.row  {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: -2rem;
+    margin-right: -2rem;
+    justify-content: center;
+}
+
